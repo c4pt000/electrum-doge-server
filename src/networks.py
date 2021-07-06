@@ -15,5 +15,10 @@ params = {
         'pubkey_address': 30,
         'script_address': 22,
         'genesis_hash': '1a91e3dace36e2be3bf030a65679fe821aa1d6ef92e7c9902eb318182c355691'
+    },
+    'radiocoin_main': {
+        'pubkey_address': 60,
+        'script_address': 22,
+        'genesis_hash': '000007ce46e6c59844c34fa7ba5b27c8dac0653a27fcfb7340cc0158849e4afd'
     }
 }
